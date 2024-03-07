@@ -30,7 +30,6 @@ export default function App() {
         setImage(data.uri);
       } catch (e) {
         console.log(e);
-        
       }
     }
   }
